@@ -1,0 +1,1 @@
+For understanding templates and urls
